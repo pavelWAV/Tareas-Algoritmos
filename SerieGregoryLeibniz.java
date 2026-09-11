@@ -31,7 +31,7 @@ public class SerieGregoryLeibniz {
             denominador = denominador + 2;
         }
 
-        // La serie calcula PI/4, por eso multiplicamos por 4
+        // Multiplicamos por 4
         pi = pi * 4;
 
         return pi;
