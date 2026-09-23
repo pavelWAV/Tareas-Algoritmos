@@ -25,7 +25,7 @@ while (current !== null) {
 }
 
 if (found) {
-    console.log("Elemento encontrado");
+    console.log("Elemento encontrado papu");
 } else {
-    console.log("Elemento no encontrado");
+    console.log("Elemento no encontrado mala suerte amigo");
 }
